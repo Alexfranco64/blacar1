@@ -1,0 +1,68 @@
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\bin\Release\net6.0\appsettings.Development.json
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\bin\Release\net6.0\appsettings.json
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\bin\Release\net6.0\blacarapi.exe
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\bin\Release\net6.0\blacarapi.deps.json
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\bin\Release\net6.0\blacarapi.runtimeconfig.json
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\bin\Release\net6.0\blacarapi.dll
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\bin\Release\net6.0\blacarapi.pdb
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\bin\Release\net6.0\System.Data.SqlClient.dll
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\obj\Release\net6.0\blacarapi.csproj.AssemblyReference.cache
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\obj\Release\net6.0\blacarapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\obj\Release\net6.0\blacarapi.AssemblyInfoInputs.cache
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\obj\Release\net6.0\blacarapi.AssemblyInfo.cs
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\obj\Release\net6.0\blacarapi.csproj.CoreCompileInputs.cache
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\obj\Release\net6.0\blacarapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\obj\Release\net6.0\blacarapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\obj\Release\net6.0\scopedcss\bundle\blacarapi.styles.css
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\obj\Release\net6.0\blacarapi.csproj.CopyComplete
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\obj\Release\net6.0\blacarapi.dll
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\obj\Release\net6.0\refint\blacarapi.dll
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\obj\Release\net6.0\blacarapi.pdb
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\obj\Release\net6.0\blacarapi.genruntimeconfig.cache
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\obj\Release\net6.0\ref\blacarapi.dll
+C:\Users\frank\Downloads\Solution1 (2)\Solution1 (1)\Solution1\blacarapi\bin\Release\net6.0\appsettings.Development.json
+C:\Users\frank\Downloads\Solution1 (2)\Solution1 (1)\Solution1\blacarapi\bin\Release\net6.0\appsettings.json
+C:\Users\frank\Downloads\Solution1 (2)\Solution1 (1)\Solution1\blacarapi\bin\Release\net6.0\blacarapi.exe
+C:\Users\frank\Downloads\Solution1 (2)\Solution1 (1)\Solution1\blacarapi\bin\Release\net6.0\blacarapi.deps.json
+C:\Users\frank\Downloads\Solution1 (2)\Solution1 (1)\Solution1\blacarapi\bin\Release\net6.0\blacarapi.runtimeconfig.json
+C:\Users\frank\Downloads\Solution1 (2)\Solution1 (1)\Solution1\blacarapi\bin\Release\net6.0\blacarapi.dll
+C:\Users\frank\Downloads\Solution1 (2)\Solution1 (1)\Solution1\blacarapi\bin\Release\net6.0\blacarapi.pdb
+C:\Users\frank\Downloads\Solution1 (2)\Solution1 (1)\Solution1\blacarapi\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\frank\Downloads\Solution1 (2)\Solution1 (1)\Solution1\blacarapi\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\frank\Downloads\Solution1 (2)\Solution1 (1)\Solution1\blacarapi\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\frank\Downloads\Solution1 (2)\Solution1 (1)\Solution1\blacarapi\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\frank\Downloads\Solution1 (2)\Solution1 (1)\Solution1\blacarapi\bin\Release\net6.0\System.Data.SqlClient.dll
+C:\Users\frank\Downloads\Solution1 (2)\Solution1 (1)\Solution1\blacarapi\bin\Release\net6.0\Plugin.Media.dll
+C:\Users\frank\Downloads\Solution1 (2)\Solution1 (1)\Solution1\blacarapi\bin\Release\net6.0\Xamarin.Essentials.dll
+C:\Users\frank\Downloads\Solution1 (2)\Solution1 (1)\Solution1\blacarapi\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\frank\Downloads\Solution1 (2)\Solution1 (1)\Solution1\blacarapi\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\frank\Downloads\Solution1 (2)\Solution1 (1)\Solution1\blacarapi\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\frank\Downloads\Solution1 (2)\Solution1 (1)\Solution1\blacarapi\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\frank\Downloads\Solution1 (2)\Solution1 (1)\Solution1\blacarapi\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\frank\Downloads\Solution1 (2)\Solution1 (1)\Solution1\blacarapi\obj\Release\net6.0\blacarapi.csproj.AssemblyReference.cache
+C:\Users\frank\Downloads\Solution1 (2)\Solution1 (1)\Solution1\blacarapi\obj\Release\net6.0\blacarapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frank\Downloads\Solution1 (2)\Solution1 (1)\Solution1\blacarapi\obj\Release\net6.0\blacarapi.AssemblyInfoInputs.cache
+C:\Users\frank\Downloads\Solution1 (2)\Solution1 (1)\Solution1\blacarapi\obj\Release\net6.0\blacarapi.AssemblyInfo.cs
+C:\Users\frank\Downloads\Solution1 (2)\Solution1 (1)\Solution1\blacarapi\obj\Release\net6.0\blacarapi.csproj.CoreCompileInputs.cache
+C:\Users\frank\Downloads\Solution1 (2)\Solution1 (1)\Solution1\blacarapi\obj\Release\net6.0\blacarapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\frank\Downloads\Solution1 (2)\Solution1 (1)\Solution1\blacarapi\obj\Release\net6.0\blacarapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\frank\Downloads\Solution1 (2)\Solution1 (1)\Solution1\blacarapi\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\frank\Downloads\Solution1 (2)\Solution1 (1)\Solution1\blacarapi\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\frank\Downloads\Solution1 (2)\Solution1 (1)\Solution1\blacarapi\obj\Release\net6.0\scopedcss\bundle\blacarapi.styles.css
+C:\Users\frank\Downloads\Solution1 (2)\Solution1 (1)\Solution1\blacarapi\obj\Release\net6.0\blacarapi.csproj.CopyComplete
+C:\Users\frank\Downloads\Solution1 (2)\Solution1 (1)\Solution1\blacarapi\obj\Release\net6.0\blacarapi.dll
+C:\Users\frank\Downloads\Solution1 (2)\Solution1 (1)\Solution1\blacarapi\obj\Release\net6.0\refint\blacarapi.dll
+C:\Users\frank\Downloads\Solution1 (2)\Solution1 (1)\Solution1\blacarapi\obj\Release\net6.0\blacarapi.pdb
+C:\Users\frank\Downloads\Solution1 (2)\Solution1 (1)\Solution1\blacarapi\obj\Release\net6.0\blacarapi.genruntimeconfig.cache
+C:\Users\frank\Downloads\Solution1 (2)\Solution1 (1)\Solution1\blacarapi\obj\Release\net6.0\ref\blacarapi.dll

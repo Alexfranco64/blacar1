@@ -1,0 +1,17 @@
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\obj\Release\net6.0\PubTmp\Out\blacarapi.exe
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\obj\Release\net6.0\PubTmp\Out\blacarapi.dll
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\obj\Release\net6.0\PubTmp\Out\blacarapi.deps.json
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\obj\Release\net6.0\PubTmp\Out\blacarapi.runtimeconfig.json
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\obj\Release\net6.0\PubTmp\Out\blacarapi.pdb
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\obj\Release\net6.0\PubTmp\Out\System.Data.SqlClient.dll
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\obj\Release\net6.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\obj\Release\net6.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\obj\Release\net6.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\frank\Documents\salle\4to semestre\android\Solution1\blacarapi\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

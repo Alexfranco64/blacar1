@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "jd/FHRMQBfFUtcf2UWwM11mU+DB4nxNWEqirT80n/tXJRGn6iRYhsqtgPCMOzoLRi+8BbAWnqWQ6XJtxUouWog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\frank\\Downloads\\Solution1 (2)\\Solution1 (1)\\Solution1\\Appblacar\\Appblacar\\Appblacar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\frank\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\frank\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\frank\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\frank\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\frank\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
+    "C:\\Users\\frank\\.nuget\\packages\\xamarin.essentials\\1.7.3\\xamarin.essentials.1.7.3.nupkg.sha512",
+    "C:\\Users\\frank\\.nuget\\packages\\xamarin.forms\\5.0.0.2478\\xamarin.forms.5.0.0.2478.nupkg.sha512"
+  ],
+  "logs": []
+}

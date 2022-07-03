@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Appblacar.Views.ViajePage">
+      <!-- Toolbar -->
+    <ContentPage.Content >
+        <ScrollView BackgroundColor="Gray">
+            <StackLayout 
+                Margin="20,35,20,25"      
+                BackgroundColor="Gray"  >
+                <Label 
+                    Text="Detalles del Viaje"
+                    FontAttributes="Bold" 
+                    FontSize="24"
+                    TextColor="DarkBlue"
+                    HorizontalOptions="CenterAndExpand" />
+                <Label
+                    Text="Nombre del conductor"
+                    TextColor="Navy"/>
+                <Entry
+                    Text="{Binding TaskSelected.Name}"/>
+                <Entry
+                    Placeholder="Latitud"
+                    Text="{Binding Latitude}"
+                    TextColor="Navy"/>
+                <Entry
+                    Placeholder="Longitud"
+                    Text="{Binding Longitude}"
+                    TextColor="Navy"/>
+                <Button
+                    Text="Obtener ubicación Actual"
+                    Command="{Binding GetLocationCommand}"
+                    TextColor="Navy" 
+                    BackgroundColor="Aquamarine" 
+                    CornerRadius="20"
+                    WidthRequest="300"
+                    HeightRequest="50"
+                    HorizontalOptions="Center" />
+                <Label
+                    Text="Lugar de inicio de viaje"
+                    TextColor="Navy"/>
+                <Entry
+                    Text="{Binding TaskSelected.Origen}"/>
+                <Label
+                    Text="Destino de Viaje"
+                    TextColor="Navy"/>
+                <Entry
+                    Text="{Binding TaskSelected.Destino}"/>
+                <Button
+                    Text="Tomar fotografía del conductor"
+                    Command="{Binding  TakePictureCommand}"
+                    TextColor="Navy" 
+                    BackgroundColor="Aquamarine" 
+                    CornerRadius="20"
+                    WidthRequest="300"
+                    HeightRequest="50"
+                    HorizontalOptions="Center" />
+                <Button
+                     Text="Seleccionar fotografía"
+                     Command="{Binding SelectPictureCommand}" 
+                     TextColor="Navy" 
+                     BackgroundColor="Aquamarine" 
+                     CornerRadius="20"
+                     WidthRequest="300"
+                     HeightRequest="50"
+                     HorizontalOptions="Center" />
+                <Label
+                    Text="DateTime"
+                    TextColor="Navy"/>
+                <Entry
+                    Text="{Binding TaskSelected.DateTime}"/>
+                <Label
+                    Text="Número de pasajeros"
+                    TextColor="Navy"/>
+                <Entry
+                    Text="{Binding TaskSelected.NoPasajeros}"/>
+                <Label
+                    Text="Tarifa de viaje"
+                    TextColor="Navy"/>
+                <Entry
+                    Text="{Binding TaskSelected.Tarifa}"/>
+                <Label
+                    Text="¿Será viaje redondo?"
+                    TextColor="Navy"/>
+                <Switch
+                    IsToggled="{Binding TaskSelected.ViajeRedondo}"/>
+                <Button
+                     Text="Guardar"
+                     Command="{Binding  SaveCommand}"
+                     TextColor="Navy" 
+                     BackgroundColor="Aquamarine" 
+                     CornerRadius="20"
+                     WidthRequest="300"
+                     HeightRequest="50"
+                     HorizontalOptions="Center"/>
+                <Button
+                     Text="Eliminar"
+                     Command="{Binding DeleteCommand}"
+                     TextColor="Navy" 
+                     BackgroundColor="Aquamarine" 
+                     CornerRadius="20"
+                     WidthRequest="300"
+                     HeightRequest="50"
+                     HorizontalOptions="Center"/>
+                <Button
+                     Text="Cancelar"
+                     Command="{Binding CancelCommand}"
+                     TextColor="Navy" 
+                     BackgroundColor="Aquamarine" 
+                     CornerRadius="20"
+                     WidthRequest="300"
+                     HeightRequest="50"
+                     HorizontalOptions="Center"/>
+                <Image Source="https://1000marcas.net/wp-content/uploads/2021/05/BlaBlaCar-logo.png" 
+                    Aspect="AspectFill" 
+                    WidthRequest="300"
+                    HeightRequest="70"
+                    HorizontalOptions="CenterAndExpand"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Appblacar.Views.Listblacar">
+    <ContentPage.Content>
+        <StackLayout>
+            <!-- Listado -->
+            <RefreshView
+                Command="{Binding RefreshCommand}"
+                IsRefreshing="{Binding IsBusy}">
+                <CollectionView
+                    ItemsSource="{Binding Listblacar}"
+                    SelectionMode="Single"
+                    SelectedItem="{Binding SelectedProduct}"
+                    SelectionChangedCommand="{Binding SelectedCommand}">
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate>
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto" />
+                                    <RowDefinition Height="Auto" />
+                                    <RowDefinition Height="Auto" />
+                                    <RowDefinition Height="Auto" />
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="50" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+                                <Image
+                                    Grid.Column="1"
+                                    Grid.RowSpan="4"
+                                    HeightRequest="50"
+                                    Source="{Binding Picture}" />
+                                <Label
+                                    Grid.Column="2"
+                                    Grid.Row="1"
+                                    FontAttributes="Bold"
+                                    Text="{Binding Name}" />
+                                <Label
+                                    Grid.Column="2"
+                                    Grid.Row="2"
+                                    Text="{Binding Tarifa}" />
+                                <Label
+                                    Grid.Column="2"
+                                    Grid.Row="3"
+                                    Text="{Binding DateTime}" />
+                                <Label
+                                    Grid.Column="2"
+                                    Grid.Row="3"
+                                    Text="{Binding Origen}" />
+                            </Grid>
+                        </DataTemplate>
+                    </CollectionView.ItemTemplate>
+                </CollectionView>
+            </RefreshView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
